@@ -1,0 +1,77 @@
+.page01 h1
+{
+  font-size: 43px;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+
+.page01-text
+{
+  color: hsl(201, 11%, 66%);
+  font-size: 20px;
+}
+
+.page01 h2
+{
+  font-size: 35px;
+}
+
+.text-track
+{
+  font-size: 20px;
+}
+
+.page03 h2
+{
+  font-size: 35px;
+}
+
+.page03 p
+{
+  margin-top: 0;
+  font-size: 15px;
+  margin-bottom: 100px;
+}
+
+.page04 h2
+{
+  font-size: 35px;
+  margin-top: 70px;
+}
+
+.boost
+{
+  font-size: 18px;
+}
+
+.page05 h2
+{
+  font-size: 35px;
+}
+
+.page05 p
+{
+  font-size: 18px;
+}
+
+.faw p
+{
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.faw p:hover
+{
+  color: hsl(171, 66%, 44%);
+}
+
+.icon-fbfb
+{
+  transition: filter 0.17s;
+  cursor: pointer;
+}
+
+.icon-fbfb:hover
+{
+  filter: brightness(0) saturate(100%) invert(60%) sepia(40%) saturate(752%) hue-rotate(122deg) brightness(94%) contrast(86%);
+}
